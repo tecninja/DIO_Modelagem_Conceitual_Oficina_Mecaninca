@@ -4,3 +4,5 @@ Criação de modelagem conceitual afim de exemplificar um modelo que atenda a um
 Segundo projeto do bootcamp Database Experience.
 
 Projeto iniciado do zero.
+
+Porjeto modelado em banco de dados MySQL
